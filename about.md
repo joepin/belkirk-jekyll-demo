@@ -13,6 +13,11 @@ services:
 - heading: Service 1
   description: This is the first service we offer
   icon: "/uploads/2018/02/17/neurons.jpg"
+- description: This is the second service
+  icon: ''
+  heading: Service 2
+partners:
+- "/uploads/2018/02/17/building2.jpg"
 menu:
   footer:
     identifier: _about
